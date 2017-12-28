@@ -1,5 +1,5 @@
 # Hydrate
-* This is example C++ code which is part of [Rosetta](https://www.rosettacommons.org) protein structure prediction tool.
+* This is an example C++ code which is part of [Rosetta](https://www.rosettacommons.org) protein structure prediction software suite.
 * The code is used to predict the positon and orientation of structural water molecules in a protein.
 * Code I wrote is commented by //yumeng
 
